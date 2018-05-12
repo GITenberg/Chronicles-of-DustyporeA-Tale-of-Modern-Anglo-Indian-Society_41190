@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41024'
     url: http://www.gutenberg.org/2009/agents/41024
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41190#Chronicles-of-DustyporeA-Tale-of-Modern-Anglo-Indian-Society
 gutenberg_issued: '2012-10-26'
 gutenberg_type: Text
 identifiers:
